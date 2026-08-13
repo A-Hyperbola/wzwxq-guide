@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://a-hyperbola.github.io/wzwxq-guide/sitemap.xml
