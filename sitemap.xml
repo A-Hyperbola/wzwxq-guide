@@ -1,42 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-domain.com/</loc>
-    <changefreq>daily</changefreq>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/posts/wangzhe-wanxiangqi-kaoda-jiaocheng.html</loc>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/posts/wangzhe-wanxiangqi-kaoda-jiaocheng.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/posts/wzwxq-xinshou-gonglue.html</loc>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/posts/wzwxq-xinshou-gonglue.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/posts/wzwxq-yingxiong-qiangdu.html</loc>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/posts/wzwxq-yingxiong-qiangdu.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/posts/wzwxq-zhenrong-tuijian.html</loc>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/posts/wzwxq-zhenrong-tuijian.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/posts/wzwxq-anzhan-boyi.html</loc>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/posts/wzwxq-anzhan-boyi.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/posts/wzwxq-guanjianci-liandong.html</loc>
+    <loc>https://a-hyperbola.github.io/wzwxq-guide/posts/wzwxq-guanjianci-liandong.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
